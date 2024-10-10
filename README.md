@@ -1,4 +1,6 @@
-Course materials for a guest lecture taught on 23.09.2024 at Technical University of Denmark (DTU).
+# Feasibility studies for renewable energy projects
+
+This repository contains the course materials for a guest lecture taught on 23.09.2024 at Technical University of Denmark (DTU).
 
 The lecture covered one of the modules in the short-term course, "Physical and Financial Power Markets", organzied by DTU Wind and Energy Systems. The course invited about 20 industry professionals working at Energy regulators, utilities, TSOs, DSOs, etc. from across the world to learn about the green energy transition in Europe and to reflect on how they can achieve similar results in their countries.
 
